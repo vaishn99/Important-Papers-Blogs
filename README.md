@@ -1,11 +1,11 @@
 # Important papers and blogs about VAE 
 
-## Background readings :
+## Background readings :<br/>
 
-1.https://cs229.stanford.edu/notes2021fall/cs229-notes8.pdf (Note on EM Algoithm,ELBO maximisation from stanford)
-2.https://youtu.be/LmpkKwsyQj4 (Anant Avati's lecture on K-means--> GMM-->>EM algorithm,A Must watch)
-3.https://cs229.stanford.edu/summer2019/cs229-notes9.pdf (Factor analysis (A latent space model) lecture notes).
-4.https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained(A good blog that explains about KL Divergence)
+1.https://cs229.stanford.edu/notes2021fall/cs229-notes8.pdf (Note on EM Algoithm,ELBO maximisation from stanford)<br/>
+2.https://youtu.be/LmpkKwsyQj4 (Anant Avati's lecture on K-means--> GMM-->>EM algorithm,A Must watch)<br/>
+3.https://cs229.stanford.edu/summer2019/cs229-notes9.pdf (Factor analysis (A latent space model) lecture notes).<br/>
+4.https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained(A good blog that explains about KL Divergence)<br/>
 
 ## Vanilla VAE :
 
