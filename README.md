@@ -28,6 +28,20 @@ reparameterization/(A really good blog on reparametrisation)
 
 
 
+# Papers on Recommedation_systems
+
+## Matrix completion approach(Classical): SVD,CUR,PQ
+> - Good paper on randomised SVD (recent) : https://arxiv.org/pdf/1608.02148.pdf
+> - CUR decomposition Base paper : https://www.pnas.org/doi/full/10.1073/pnas.0803205106 <br/>
+> - Good material for understanding CUR better (recent) : https://arxiv.org/abs/1907.12668 <br/>
+> - PQ Decomposition blog : https://towardsdatascience.com/recommendation-system-matrix-factorization-d61978660b4b <br/>
+> - Stanford mini lecture(inside a playlist) : https://youtu.be/SO1KTzuKTSI <br/>
+
+## Neural Collaborative Filtering(NCF,Deep learning based): <br/>
+
+> - NCF base paper : https://arxiv.org/pdf/1708.05031.pdf
+
+
 
 
 
