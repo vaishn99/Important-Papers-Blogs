@@ -1,5 +1,6 @@
 # Important papers and blogs about VAE 
 
+
 ## Background readings :<br/>
 
 1.https://cs229.stanford.edu/notes2021fall/cs229-notes8.pdf (Note on EM Algoithm,ELBO maximisation from stanford)<br/>
@@ -41,7 +42,11 @@ reparameterization/(A really good blog on reparametrisation)
 
 > - NCF base paper : https://arxiv.org/pdf/1708.05031.pdf
 
+## Some blogs that I follow (Will make life easier)
 
+> - https://jxmo.io/posts/nce (On NCE) <br/>
+> - https://github.com/eugeneyan () <br/>
+> - https://eugeneyan.com/writing/bandits/ <br/>
 
 
 
