@@ -48,7 +48,7 @@ reparameterization/(A really good blog on reparametrisation)
 > - https://github.com/eugeneyan () <br/>
 > - https://eugeneyan.com/writing/bandits/ <br/>
 > - https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial8/Deep_Energy_Models.html
-
+> - https://www.robots.ox.ac.uk/~ojw/files/NotesOnCD.pdf (On Contrastive Divergence)
 
 
 <!---
