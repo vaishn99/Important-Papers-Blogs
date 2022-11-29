@@ -42,7 +42,7 @@ reparameterization/(A really good blog on reparametrisation)
 
 > - NCF base paper : https://arxiv.org/pdf/1708.05031.pdf
 
-## Some blogs that I follow (Will make life easier)
+## Some blogs that I followed (Will make life easier)
 
 > - https://jxmo.io/posts/nce (On NCE) <br/>
 > - https://github.com/eugeneyan () <br/>
@@ -51,6 +51,7 @@ reparameterization/(A really good blog on reparametrisation)
 > - https://www.robots.ox.ac.uk/~ojw/files/NotesOnCD.pdf (On Contrastive Divergence)
 > - https://timvieira.github.io/blog/post/2014/12/21/importance-sampling/ (On importance sampling)
 > - https://timvieira.github.io/blog/post/2016/12/19/counterfactual-reasoning-and-learning-from-logged-data/ (off-policy)
+> - https://web.archive.org/web/20170401030417/http://www.columbia.edu/~mh2078/MCS04/MCS_var_red2.pdf(Variance reduction techniques)
 
 <!---
 
