@@ -49,7 +49,8 @@ reparameterization/(A really good blog on reparametrisation)
 > - https://eugeneyan.com/writing/bandits/ <br/>
 > - https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial8/Deep_Energy_Models.html
 > - https://www.robots.ox.ac.uk/~ojw/files/NotesOnCD.pdf (On Contrastive Divergence)
-
+> - https://timvieira.github.io/blog/post/2014/12/21/importance-sampling/ (On importance sampling)
+> - https://timvieira.github.io/blog/post/2016/12/19/counterfactual-reasoning-and-learning-from-logged-data/ (off-policy)
 
 <!---
 
