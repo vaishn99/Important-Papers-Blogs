@@ -85,3 +85,10 @@ Will be updated soon ...
 # Diffusion models:
 
 - Understanding Diffusion Models: A Unified Perspective:An important paper that connects VAE to diffusion through Heirarchical VAE . (https://arxiv.org/abs/2208.11970)
+
+# RL-reference materials:
+
+- https://huggingface.co/blog/deep-rl-pg (Deep+RL)
+- https://jonathan-hui.medium.com/rl-policy-gradients-explained-9b13b688b146 (Policy gradient-1,2)
+- https://www.davidsilver.uk/teaching/ (David silver-lectures)
+- https://sites.google.com/view/deep-rl-bootcamp/lectures (Peter Abbeil lectures)
